@@ -5,7 +5,8 @@
 
 
 <!-- Contact me links -->
-
+<!-- Mail, Homepage, LinkedIn, ...
+-->
 
 
 <!-- Most Used Languages -->
