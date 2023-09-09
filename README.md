@@ -1,3 +1,4 @@
+<!-- LEFT SIDE -->
 <!-- About Me -->
 <!--
 <div>
