@@ -1,4 +1,4 @@
-<!-- Left Side -->
+<!-- Left -->
 <!-- About Me -->
 <!--
 <div>
