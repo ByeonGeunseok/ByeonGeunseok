@@ -5,6 +5,7 @@
 </div>
 -->
 
+<!-- Left -->
 <!-- Contact me links -->
 <!-- Mail, Homepage, LinkedIn, ...
 -->
