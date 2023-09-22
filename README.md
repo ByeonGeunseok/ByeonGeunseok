@@ -1,11 +1,11 @@
-<!-- Left -->
+<!-- Left1 -->
 <!-- About Me -->
 <!--
 <div>
 </div>
 -->
 
-<!-- Left -->
+<!-- Left2 -->
 <!-- Contact me links -->
 <!-- Mail, Homepage, LinkedIn, ...
 -->
